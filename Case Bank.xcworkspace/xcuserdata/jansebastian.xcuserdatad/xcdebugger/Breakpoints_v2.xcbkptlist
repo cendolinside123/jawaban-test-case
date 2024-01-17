@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B134ADC-E73B-44F9-9FA2-6401D5C1631A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CB9EC53-F472-44DD-8C5E-2FC8053FEEE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/Utils/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "init(x:y:height:width:bounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "727210D0-AE15-4D83-874B-CF1AFFABAEF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/View/CaseThree/ScannerQRViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "setupQR()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "727210D0-AE15-4D83-874B-CF1AFFABAEF3 - 81837d0beb71079e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerQRViewController.setupQR() -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/View/CaseThree/ScannerQRViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "727210D0-AE15-4D83-874B-CF1AFFABAEF3 - 81837d0beb7107c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerQRViewController.setupQR() -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/View/CaseThree/ScannerQRViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "727210D0-AE15-4D83-874B-CF1AFFABAEF3 - 81837d0beb7107e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerQRViewController.setupQR() -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/View/CaseThree/ScannerQRViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "944">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CACEED4F-11FB-469C-9216-8D51CF6EF50A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/Utils/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "setupCaptureLayer(bounds:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CACEED4F-11FB-469C-9216-8D51CF6EF50A - b0fbb2fea9d5893f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "CACEED4F-11FB-469C-9216-8D51CF6EF50A - b0fbb2fea9d5893f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "CACEED4F-11FB-469C-9216-8D51CF6EF50A - b0fbb2fea9d589de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "CACEED4F-11FB-469C-9216-8D51CF6EF50A - b0fbb2fea9d589de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/Utils/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "setupCaptureLayer(bounds:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D - b0fbb2fea9d58826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D - b0fbb2fea9d58826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+               <Location
+                  uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D - b0fbb2fea9d58826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+               <Location
+                  uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D - b0fbb2fea9d588c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+               <Location
+                  uuid = "826ADAC4-2607-41F4-B666-EF01B7031F8D - b0fbb2fea9d588c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Case_Bank.ScannerView.setupCaptureLayer(bounds: __C.CGRect) -&gt; ()"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/Utils/ScannerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17D90DDA-7D0F-41AC-9BE3-A02B819EDE3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/Utils/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "setupCaptureLayer(bounds:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FF64C7E-4D10-418F-B1F0-21DB5944BB4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Case Bank/DataSource/TransactionDataSource/TransactionDataSourceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "inputTransaction(id:bank:transactionID:merchanName:price:tanggal:status:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FF64C7E-4D10-418F-B1F0-21DB5944BB4E - cbaf238d3d34d9a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((RxSwift.CompletableEvent) -&gt; ()) -&gt; RxSwift.Disposable in Case_Bank.TransactionDataSourceImpl.inputTransaction(id: Swift.String, bank: Swift.String, transactionID: Swift.String, merchanName: Swift.String, price: Swift.Int, tanggal: Foundation.Date, status: Case_Bank.TransactionState) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.CompletableTrait, Swift.Never&gt;"
+                  moduleName = "Case Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/DataSource/TransactionDataSource/TransactionDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "9FF64C7E-4D10-418F-B1F0-21DB5944BB4E - fbd1c77701e4a0d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((RxSwift.CompletableEvent) -&gt; ()) -&gt; RxSwift.Disposable in Case_Bank_Tests.TransactionDataSourceImpl.inputTransaction(id: Swift.String, bank: Swift.String, transactionID: Swift.String, merchanName: Swift.String, price: Swift.Int, tanggal: Foundation.Date, status: Case_Bank_Tests.TransactionState) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.CompletableTrait, Swift.Never&gt;"
+                  moduleName = "Case Bank Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jansebastian/Documents/Pribadi/Case%20Bank/Case%20Bank/DataSource/TransactionDataSource/TransactionDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,6 @@
+framework module Pods_Case_Bank_Tests {
+  umbrella header "Pods-Case Bank Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
