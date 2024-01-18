@@ -52,6 +52,8 @@ class HomeViewController: UIViewController {
         button.setTitle("Case Study 1", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
@@ -60,6 +62,8 @@ class HomeViewController: UIViewController {
         button.setTitle("Case Study 2", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
@@ -68,6 +72,8 @@ class HomeViewController: UIViewController {
         button.setTitle("Case Study 3", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
@@ -76,6 +82,8 @@ class HomeViewController: UIViewController {
         button.setTitle("Case Study 4", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
 

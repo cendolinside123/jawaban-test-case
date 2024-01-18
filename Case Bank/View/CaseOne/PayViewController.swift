@@ -142,6 +142,8 @@ class PayViewController: UIViewController {
         button.setTitle("Cancel", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
@@ -150,6 +152,8 @@ class PayViewController: UIViewController {
         button.setTitle("Pay", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     

@@ -66,6 +66,8 @@ class CaseOneViewController: UIViewController {
         button.setTitle("QR", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
@@ -74,6 +76,8 @@ class CaseOneViewController: UIViewController {
         button.setTitle("History payment", for: .normal)
         button.setTitleColor(.black, for: .normal)
         button.backgroundColor = .white
+        button.layer.borderWidth = 1
+        button.layer.borderColor = UIColor.black.cgColor
         return button
     }()
     
