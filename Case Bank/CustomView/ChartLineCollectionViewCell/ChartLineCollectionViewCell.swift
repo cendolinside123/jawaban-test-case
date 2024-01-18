@@ -55,7 +55,7 @@ extension ChartLineCollectionViewCell {
             listItemChart.append(ChartDataEntry(x: Double((index + 1)), y: Double(value.month[index])))
         }
         
-        let setup = LineChartDataSet(entries: listItemChart, label: "DataSet 1")
+        let setup = LineChartDataSet(entries: listItemChart, label: "Data per bulan")
         setup.drawIconsEnabled = false
         setup.lineDashLengths = [5, 2.5]
         setup.highlightLineDashLengths = [5, 2.5]
@@ -69,16 +69,20 @@ extension ChartLineCollectionViewCell {
         setup.formLineDashLengths = [5, 2.5]
         setup.formLineWidth = 1
         setup.formSize = 15
+        setup.drawValuesEnabled = true
+        setup.valueTextColor = .black
+        
+        setup.drawFilledEnabled = false
 
         let value = ChartDataEntry(x: Double(3), y: 3)
         setup.addEntryOrdered(value)
-        let gradientColors = [ChartColorTemplates.colorFromString("#00ff0000").cgColor,
-                              ChartColorTemplates.colorFromString("#ffff0000").cgColor]
-        let gradient = CGGradient(colorsSpace: nil, colors: gradientColors as CFArray, locations: nil)!
 
         setup.fillAlpha = 1
-//        setup.fill = LinearGradientFill(gradient: gradient, angle: 90)
-        setup.drawFilledEnabled = true
+        setup.drawFilledEnabled = false
+        
+        
+        lineChart.legend.form = .line
+        lineChart.legend.textColor = .black
 
         let data = LineChartData(dataSet: setup)
         lineChart.data = data
